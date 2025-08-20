@@ -42,7 +42,7 @@ Aquí se documentan actividades relacionadas con **fundamentos de investigación
 
 ## 👨‍🎓 Autor
 **Sebastián Alexander Pava Lombana**  
-📧 Contacto: *[añadir correo si lo deseas]*  
+📧 Contacto: spava2311@gmail.com  
 💡 Aprendiz SENA - ADSO | Entusiasta de la investigación y la innovación tecnológica  
 
 ---
